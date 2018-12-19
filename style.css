@@ -37,6 +37,10 @@ ul{
     text-align:center;
 }
 
+.links li a{
+  background: #0A0A2A
+}
+
 .subject:nth-of-type(odd) h2 {
     background: #0A0A2A
 }
