@@ -21,7 +21,7 @@ ul{
   float: left;
 }
 
-.links li a {
+.links li a,h1,h2 {
 	color: #FFF;
 	text-decoration:none;
 	outline: none;
