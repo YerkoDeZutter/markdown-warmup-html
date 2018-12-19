@@ -8,14 +8,30 @@ body{
   padding: 30px 50px 30px 50px;
 }
 
+ul{
+  list-style: none;
+}
+
 .links{
-  padding-left: 20px;
+
+}
+
+.links li{
+  width: 25%;
+  float: left;
+}
+
+.links li a {
+	color: #FFF;
+	text-decoration:none;
+	outline: none;
+	padding: 15px 0;
+	display: block;
+	background: rgb(50,153,187);
+	transition: all 1s ease;
+    text-align:center;
 }
 
 a{
   text-decoration:none;
-}
-
-#check{
-  list-style: none;
 }
