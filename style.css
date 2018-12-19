@@ -39,8 +39,18 @@ ul{
     background: rgb(50,153,187);
 }
 
-.WZijn:nth-of-type(odd) li {
-    color: white;
+.WZijn li {
+  color: #FFF;
+  padding: 15px 0;
+  display: block;
+  background: rgb(50,153,187);
+    text-align:center;
+    width: 150px;
+    margin: auto;
+}
+
+.WZijn li:nth-of-type(odd) {
+    background: #0A0A2A
 }
 
 p{
