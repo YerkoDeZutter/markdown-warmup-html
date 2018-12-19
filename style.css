@@ -32,6 +32,17 @@ ul{
     text-align:center;
 }
 
+.subject:nth-of-type(odd) h2 {
+    background: #0A0A2A
+}
+.subject:nth-of-type(even) h2 {
+    background: rgb(50,153,187);
+}
+
+.WZijn:nth-of-type(odd) li {
+    color: white;
+}
+
 p{
 
 }
