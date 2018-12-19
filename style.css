@@ -52,10 +52,10 @@ ul{
   background: #0A0A2A
 }
 
-.subject:nth-of-type(even) h2 {
+.subject:nth-of-type(odd) h2 {
     background: #0A0A2A
 }
-.subject:nth-of-type(odd) h2 {
+.subject:nth-of-type(even) h2 {
     background: rgb(50,153,187);
 }
 
